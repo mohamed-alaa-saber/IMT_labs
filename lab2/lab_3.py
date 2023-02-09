@@ -1,6 +1,4 @@
 
-
-
 def main():
     N=int(input("number of operations"))
     l=list()
@@ -20,14 +18,7 @@ def main():
         elif g[0]=="print":
             print(l)
             
-    
-    
-    
-    
-    
-    
-    
-    
+
     
 
 if __name__=="__main__":
