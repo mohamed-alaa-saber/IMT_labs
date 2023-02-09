@@ -57,13 +57,14 @@
 
 
 #lab-8
-max=int(input("enter max"))
-i=1
-while (i<max):
-    print("*"*(i))
-    i=i+1
-i=max-2
-while (i > 0):
-    print("*"*(i))
-    i=i-1
-    
+#max=int(input("enter max"))
+#i=1
+#while (i<max):
+#    print("*"*(i))
+#    i=i+1
+#i=max-2
+#while (i > 0):
+#    print("*"*(i))
+#    i=i-1
+
+ 
